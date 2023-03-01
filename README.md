@@ -1,3 +1,13 @@
 # TEST REPOSITORY
+
 ## For learning markdown language
-### I'd rather be doing Javacript at this moment
+
+### More testing
+
+**The bald test**
+bald*
+bald*
+bald*
+bold*
+
+__Italic test__
