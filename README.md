@@ -40,4 +40,4 @@ _Italic test_
 
 # YOUNG CHOP ON THE BEAT
 
-(almightyso.webp)
+![Almighty So](almightyso.webp)
