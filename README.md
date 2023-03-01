@@ -16,7 +16,7 @@ bold*
 
 _Italic test_
 
-> <head>
+> <.head>
 > <so no head?>
 > <script>
 > if head == False:
