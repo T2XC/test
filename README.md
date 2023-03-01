@@ -40,4 +40,4 @@ _Italic test_
 
 # YOUNG CHOP ON THE BEAT
 
-(https://lastfm.freetls.fastly.net/i/u/ar0/24fca3f63cc91c9010ec84adc7875b06.jpg)
+(almightyso.webp)
