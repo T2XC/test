@@ -10,4 +10,4 @@ bald*
 bald*
 bold*
 
-__Italic test__
+_Italic test_
